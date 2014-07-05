@@ -1,5 +1,5 @@
 # Amirali Sanatinia amirali@ccs.neu.edu
-# Network Security Java Socket Programming Demo
+# Network Security Python Socket Programming Demo
 
 import socket
 
